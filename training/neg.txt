@@ -1,0 +1,10 @@
+training/bad/bad01.png
+training/bad/bad02.png
+training/bad/bad03.png
+training/bad/bad04.png
+training/bad/bad05.png
+training/bad/bad06.png
+training/bad/bad07.png
+training/bad/bad08.png
+training/bad/bad09.png
+training/bad/bad10.png

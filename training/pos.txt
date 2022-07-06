@@ -1,0 +1,8 @@
+good/good01.png 1 9 6 61 51
+good/good02.png 1 6 5 64 52
+good/good03.png 1 11 31 142 93
+good/good04.png 1 14 19 239 164
+good/good05.png 1 26 43 84 58
+good/good06.png 1 18 33 91 66
+good/good07.png 1 37 25 76 82
+good/good08.png 1 17 52 213 151
